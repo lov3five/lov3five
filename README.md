@@ -26,9 +26,10 @@ I am a student majoring in Information Technology (Computer Network) studying at
 </p>
 
 ### ⚡ Recent GitHub Activity</b>
-  <br/>
-   
-  <br/>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=lov3five&theme=react-dark&hide_border=true&area=true" />  
+  <br />
+</p>
  
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
