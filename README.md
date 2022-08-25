@@ -30,20 +30,22 @@ I am a student majoring in Information Technology (Computer Network) studying at
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserer" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
 </p>
 
 
@@ -60,8 +62,6 @@ I am a student majoring in Information Technology (Computer Network) studying at
  <img src="https://activity-graph.herokuapp.com/graph?username=lov3five&theme=react-dark&hide_border=true&area=true" />  
   <br />
 </p>
- 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
   <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=lov3five&color=brightgreen" alt="watching_count" />
