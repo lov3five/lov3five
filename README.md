@@ -1,5 +1,5 @@
 
-## <hr><p align="center"> </> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a> </></p>
+## <hr><p align="center"> <\> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a> </></p>
 
 <p align="center">
   <a href="https://github.com/lov3five"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+home"></a>
