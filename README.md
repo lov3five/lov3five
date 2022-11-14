@@ -15,7 +15,7 @@ I am a student majoring in Information Technology (Computer Network) studying at
   - Javascript
 - 👯 ...
 - ✔ ...<br>
-- ▶ CONTACT ME -> <a href="lov3five@gmail.com">lov3five@gmail.com</a>
+- ▶ CONTACT ME -> <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
 <p align="center">
   
