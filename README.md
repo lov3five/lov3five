@@ -9,11 +9,8 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
 I am a student majoring in Information Technology (Computer Network) studying at Industrial University of Ho Chi Minh City (IUH) . I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web Designer, Android Development...**
-- 🌱 I’m currently learning ...
-  - Java
-  - Javascript
-- 👯 ...
+* **I am interested in Web Developement**
+- 🌱 I’m currently learning Javascript, Java.
 - ✔ ...<br>
 - ▶ CONTACT ME -> <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
