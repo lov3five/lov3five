@@ -7,7 +7,7 @@
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
-I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C++, Java, JavaScript, TypeScript, and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flutter**.
+I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C++, Java, JavaScript, TypeScript and Python***. I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flutter**.
 
 Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
 
@@ -15,6 +15,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
 - ✔ I have a strong focus on backend system development, database design, querying, and administration.
 - ▶ Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
+#### Front-end
 <p align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="50" height="50"/>
@@ -22,15 +23,26 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgrsql" width="50" height="50"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserer" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
