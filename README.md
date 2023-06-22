@@ -67,8 +67,3 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
 <img src="https://komarev.com/ghpvc/?username=lov3five&color=brightgreen" alt="watching_count" />
  </p>
  <hr>
-
-
-
-
-
