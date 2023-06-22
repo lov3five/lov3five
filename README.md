@@ -13,7 +13,6 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
 
 - ✔ I’m currently developing with Javascript, Typescript, Java.
 - ✔ I have a strong focus on backend system development, database design, querying, and administration.
-<br>
 - ▶ Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
 <p align="center">
