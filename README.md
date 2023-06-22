@@ -1,4 +1,3 @@
-
 ## <hr><p align="center"> { Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a> }</p>
 
 <div align="center">
@@ -8,11 +7,14 @@
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
-I am a student majoring in Information Technology (Computer Network) studying at Industrial University of Ho Chi Minh City (IUH) . I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web Developement**
-- 🌱 I’m currently learning Javascript, Java.
-- ✔ ...<br>
-- ▶ CONTACT ME -> <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
+I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C++, Java, JavaScript, TypeScript, and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flutter**.
+
+Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
+
+- ✔ I’m currently developing with Javascript, Typescript, Java.
+- ✔ I have a strong focus on backend system development, database design, querying, and administration.
+<br>
+- ▶ Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
 <p align="center">
   
@@ -56,7 +58,7 @@ I am a student majoring in Information Technology (Computer Network) studying at
 
 ### ⚡ Recent GitHub Activity</b>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=lov3five&theme=react-dark&hide_border=true&area=true" />  
+ 
   <br />
 </p>
 
@@ -64,8 +66,3 @@ I am a student majoring in Information Technology (Computer Network) studying at
 <img src="https://komarev.com/ghpvc/?username=lov3five&color=brightgreen" alt="watching_count" />
  </p>
  <hr>
-
-
-
-
-
