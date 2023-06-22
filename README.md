@@ -11,9 +11,9 @@ I'm Luong Tran , a Software Engineer specializing in web and mobile app developm
 
 Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
 
-- ✔ I’m currently developing with Javascript, Typescript, Java.
-- ✔ I have a strong focus on backend system development, database design, querying, and administration.
-- ▶ Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
+- 🔴 I’m currently developing with Javascript, Typescript, Java.
+- 🔴 I have a strong focus on backend system development, database design, querying, and administration.
+- 🔴 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 ### 💻Tech Stack 
 #### ✔ Front-end
 <p align="center">
@@ -40,7 +40,6 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="50" height="50"/>
 </p>
 <hr>
 
@@ -57,6 +56,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/>
 </p>
 <hr>
@@ -66,17 +66,21 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 </p>
 <hr>
+
 #### ✔ ioT
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="50" height="50"/>
 </p>
 <hr>
 
-#### ✔ 😎 Full-snack
+#### ✔ Full-snack 😎
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
