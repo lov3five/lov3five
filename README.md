@@ -7,7 +7,7 @@
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
-I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C++, Java, JavaScript, TypeScript and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flutter**.
+I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C/C++, Java, JavaScript, TypeScript and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
 
 Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
 
