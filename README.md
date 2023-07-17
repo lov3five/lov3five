@@ -97,7 +97,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lov3five&layout=compact&theme=algolia" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" />
 </p>
 
 ### ⚡ Recent GitHub Activity</b>
