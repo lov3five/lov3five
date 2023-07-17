@@ -11,7 +11,7 @@ I'm Luong Tran , a Software Engineer specializing in web and mobile app developm
 
 Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
 
-- 🟢 I’m currently developing with Javascript, Typescript, Java.
+- 🟢 I’m currently developing with JavaScript, TypeScript, Java.
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
 - 🟢 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 
