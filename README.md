@@ -25,6 +25,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
+  <img src="https://docusaurus.io/img/docusaurus.svg" alt="docusaurus" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/hugo/hugo-original.svg" alt="flutter" width="50" height="50"/>
