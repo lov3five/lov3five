@@ -42,7 +42,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
 </p>
 <hr>
 
