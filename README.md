@@ -136,34 +136,9 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
           __/ |                                                           
          |___/                                                            
 -->
-<style>
-  /* CSS cho responsive media */
-@media (max-width: 600px) {
-  .responsive-media {
-    width: 100%;
-    height: auto;
-  }
-}
-
-/* CSS cho table và div */
-@media (max-width: 600px) {
-  .responsive-container {
-    overflow-x: auto;
-  }
-  
-  .responsive-table {
-    width: 100%;
-    max-width: 100%;
-  }
-  
-  .center-content {
-    text-align: center;
-  }
-}
-</style>
 ### 📈My Github Stats
 <div align="center">
-  <table style="width: 100%; max-width: 600px;">
+  <table >
     <tr>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" style="max-width: 100%; height: auto;" />
