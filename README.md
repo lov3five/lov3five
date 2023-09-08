@@ -135,11 +135,17 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
  |_|  |_|\__, |  \_____|_|\__|_| |_|\__,_|_.__/  |_____/ \__\__,_|\__|___/
           __/ |                                                           
          |___/                                                            
-
 -->
 ### 📈My Github Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" /> |
-| ------------- | ------------- |
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" /></td>
+    </tr>
+  </table>
+</div>
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  
   <br />
@@ -157,7 +163,6 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
  |_|  \_\___|\___\___|_| |_|\__|  \_____|_|\__|_| |_|\__,_|_.__/  /_/    \_\___|\__|_| \_/ |_|\__|\__, |
                                                                                                    __/ |
                                                                                                   |___/ 
-
 -->
 ### ⚡ Recent GitHub Activity</b>
 <p align="center">
