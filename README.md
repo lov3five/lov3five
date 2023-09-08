@@ -1,11 +1,35 @@
-## <hr><p align="center"> { Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a> }</p>
+<!--
+  _    _                _           
+ | |  | |              | |          
+ | |__| | ___  __ _  __| | ___ _ __ 
+ |  __  |/ _ \/ _` |/ _` |/ _ \ '__|
+ | |  | |  __/ (_| | (_| |  __/ |   
+ |_|  |_|\___|\__,_|\__,_|\___|_|  
+ -->
+## <hr><p align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a></p>
 
 <div align="center">
   <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
 </div>
 
+<!--
+  ____                              
+ |  _ \                             
+ | |_) | __ _ _ __  _ __   ___ _ __ 
+ |  _ < / _` | '_ \| '_ \ / _ \ '__|
+ | |_) | (_| | | | | | | |  __/ |   
+ |____/ \__,_|_| |_|_| |_|\___|_|  
+-->
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
+<!--
+           _                 _                    
+     /\   | |               | |                   
+    /  \  | |__   ___  _   _| |_   _ __ ___   ___ 
+   / /\ \ | '_ \ / _ \| | | | __| | '_ ` _ \ / _ \
+  / ____ \| |_) | (_) | |_| | |_  | | | | | |  __/
+ /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
+-->  
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
 I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C/C++, Java, JavaScript, TypeScript and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
 
@@ -15,6 +39,14 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
 - 🟢 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 
+<!--
+  _______        _      _____ _             _    
+ |__   __|      | |    / ____| |           | |   
+    | | ___  ___| |__ | (___ | |_ __ _  ___| | __
+    | |/ _ \/ __| '_ \ \___ \| __/ _` |/ __| |/ /
+    | |  __/ (__| | | |____) | || (_| | (__|   < 
+    |_|\___|\___|_| |_|_____/ \__\__,_|\___|_|\_\
+-->
 ### 💻Tech Stack 
 #### ✔ Front-end
 <p align="center">
@@ -93,15 +125,40 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
 </p>
 
+<!--
 
+  __  __          _____ _ _   _           _        _____ _        _       
+ |  \/  |        / ____(_) | | |         | |      / ____| |      | |      
+ | \  / |_   _  | |  __ _| |_| |__  _   _| |__   | (___ | |_ __ _| |_ ___ 
+ | |\/| | | | | | | |_ | | __| '_ \| | | | '_ \   \___ \| __/ _` | __/ __|
+ | |  | | |_| | | |__| | | |_| | | | |_| | |_) |  ____) | || (_| | |_\__ \
+ |_|  |_|\__, |  \_____|_|\__|_| |_|\__,_|_.__/  |_____/ \__\__,_|\__|___/
+          __/ |                                                           
+         |___/                                                            
+
+-->
 ### 📈My Github Stats
-<p align="center">
+| <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" /> |
+| ------------- | ------------- |
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" />
-</p>
+</p> -->
 
+<!--
+
+  _____                     _      _____ _ _   _           _                    _   _       _ _         
+ |  __ \                   | |    / ____(_) | | |         | |         /\       | | (_)     (_) |        
+ | |__) |___  ___ ___ _ __ | |_  | |  __ _| |_| |__  _   _| |__      /  \   ___| |_ ___   ___| |_ _   _ 
+ |  _  // _ \/ __/ _ \ '_ \| __| | | |_ | | __| '_ \| | | | '_ \    / /\ \ / __| __| \ \ / / | __| | | |
+ | | \ \  __/ (_|  __/ | | | |_  | |__| | | |_| | | | |_| | |_) |  / ____ \ (__| |_| |\ V /| | |_| |_| |
+ |_|  \_\___|\___\___|_| |_|\__|  \_____|_|\__|_| |_|\__,_|_.__/  /_/    \_\___|\__|_| \_/ |_|\__|\__, |
+                                                                                                   __/ |
+                                                                                                  |___/ 
+
+-->
 ### ⚡ Recent GitHub Activity</b>
 <p align="center">
  
