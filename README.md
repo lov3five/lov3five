@@ -169,8 +169,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
                                                                                                   |___/ 
 -->
 ### ⚡ Recent GitHub Activity</b>
-<p align="center">
- 
+<p align="center"> 
   <br />
 </p>
 
