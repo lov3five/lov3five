@@ -6,7 +6,7 @@
  | |  | |  __/ (_| | (_| |  __/ |   
  |_|  |_|\___|\__,_|\__,_|\___|_|  
  -->
-## <hr><p align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/lov3five/">Lượng Trần</a></p>
+## <hr><p align="center"> Hello World, I'm <a href="https://github.com/lov3five/">Lượng Trần</a></p>
 
 <div align="center">
   <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
@@ -30,7 +30,7 @@
   / ____ \| |_) | (_) | |_| | |_  | | | | | |  __/
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 -->  
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me 
+### About Me 
 I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***C/C++, Java, JavaScript, TypeScript and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
 
 Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
