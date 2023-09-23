@@ -54,7 +54,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
   <img src="https://docusaurus.io/img/docusaurus.svg" alt="docusaurus" width="50" height="50"/>
