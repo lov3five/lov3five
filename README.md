@@ -58,8 +58,8 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
   <img src="https://docusaurus.io/img/docusaurus.svg" alt="docusaurus" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> -->
   <img src="https://github.com/lov3five/devicon/blob/master/icons/hugo/hugo-original.svg" alt="flutter" width="50" height="50"/>
 </p>
 <hr>
@@ -71,10 +71,10 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> -->
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/> -->
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/> -->
 </p>
 <hr>
 
@@ -92,7 +92,7 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/> -->
 </p>
 <hr>
 
