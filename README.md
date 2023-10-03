@@ -20,8 +20,8 @@
  | |_) | (_| | | | | | | |  __/ |   
  |____/ \__,_|_| |_|_| |_|\___|_|  
 -->
-<!--<div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>-->
-<div align="center"><img  src="https://raw.githubusercontent.com/lov3five/readmebot/main/autochat.svg" alt=""></div>
+<div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
+
 
 
 <!--
