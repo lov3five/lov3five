@@ -33,12 +33,12 @@
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 -->  
 ### 🌈 About Me 
-I'm Luong Tran , a Software Engineer specializing in web and mobile app development and holding a degree in Information Technology (IT) from the **Industrial University of Ho Chi Minh City (IUH)**. Proficient in programming languages such as ***JavaScript, TypeScript and Python***, I have a solid foundation in software engineering. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
+I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the **Industrial University of Ho Chi Minh City (IUH)**. I have a fundamental understanding of programming languages such as **C, C++, Java; Data structures; Algorithms** and near proficiency in **JavaScript, TypeScript, and Python**. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
 
-Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies** in software development. This approach emphasizes collaboration, adaptability, and delivering value incrementally. I am eager to continue learning and contribute to real-world projects that strive to create innovative technology solutions and make a positive impact on the community. Let's collaborate and share knowledge in the dynamic field of information technology.
+Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. I am enthusiastic about furthering my learning and contributing to real-world projects, with a focus on creating advanced technology solutions that positively impact the community. Collaboration and knowledge sharing within the ever-evolving field of information technology are core values that I hold dear.
 
-- 🟢 I’m currently developing with TypeScript, Go.
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
+- 🟢 I’m currently learning Golang and advancing Backend & DevOps knowledge.
 - 🟢 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 
 <!--
@@ -120,13 +120,14 @@ Furthermore, I have hands-on experience working with **Agile/SCRUM methodologies
   <img src="https://github.com/lov3five/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
 </p>
-
 <!--
 
   __  __          _____ _ _   _           _        _____ _        _       
