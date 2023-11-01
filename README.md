@@ -38,7 +38,7 @@ I'm Luong Tran , a software engineer specializing in web application development
 Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/" target="_blank">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. I am enthusiastic about furthering my learning and contributing to real-world projects, with a focus on creating advanced technology solutions that positively impact the community. Collaboration and knowledge sharing within the ever-evolving field of information technology are core values that I hold dear.
 
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
-- 🟢 I’m currently learning ``NestJS, NextJS, Golang`` and advancing ``Backend & DevOps`` knowledge.
+- 🟢 I’m currently learning ``NestJS``, ``NextJS``, ``Golang`` and advancing ``Backend`` & ``DevOps`` knowledge.
 - 🟢 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
 
 <!--
