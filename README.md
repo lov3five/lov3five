@@ -6,7 +6,17 @@
  | |  | |  __/ (_| | (_| |  __/ |   
  |_|  |_|\___|\__,_|\__,_|\___|_|  
  -->
-## <hr><p align="center"> Hello World, I'm <a href="https://github.com/lov3five/">Lượng Trần</a></p>
+<hr>
+<p align="center">
+  <samp>
+        <a href="https://lov3five.github.io/about">Me</a> ▪
+        <a href="https://www.linkedin.com/in/luongtranstaff/" target="_blank">LinkedIn</a> ▪
+        <a href="https://twitter.com/luongtranstaff" target="_blank">X</a> ▪
+        <a href="https://instagram.com/nakervn" target="_blank">Instagram</a>
+  </samp>
+</p>
+
+#
 
 <div align="center">
   <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
