@@ -33,9 +33,13 @@
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 -->  
 ### 🌈 About Me 
-I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the **Industrial University of Ho Chi Minh City (IUH)**. I have a fundamental understanding of programming languages such as **C, C++, Java; Data structures; Algorithms** and near proficiency in **JavaScript, TypeScript, and Python**. I have successfully developed applications using frameworks like **NestJS** and **Flask**.
+<p align="justify">
+  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C, C++, Java; Data structures; Algorithms</strong> and near proficiency in <strong>JavaScript, TypeScript, and Python</strong>. I have successfully developed applications using frameworks like <strong>Nest</strong> and <strong>Flask</strong>.
+</p>
 
-Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/" target="_blank">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. I am enthusiastic about furthering my learning and contributing to real-world projects, with a focus on creating advanced technology solutions that positively impact the community. Collaboration and knowledge sharing within the ever-evolving field of information technology are core values that I hold dear.
+<p align="justify">
+  Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/" target="_blank">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. I am enthusiastic about furthering my learning and contributing to real-world projects, with a focus on creating advanced technology solutions that positively impact the community. Collaboration and knowledge sharing within the ever-evolving field of information technology are core values that I hold dear.
+</p>
 
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
 - 🟢 I’m currently learning ``NestJS``, ``NextJS``, ``Golang`` and advancing ``Backend`` & ``DevOps`` knowledge.
