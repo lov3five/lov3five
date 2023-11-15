@@ -144,8 +144,8 @@
   <img src="https://github.com/lov3five/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
 </p>
-<!--
 
+<!--
   __  __          _____ _ _   _           _        _____ _        _       
  |  \/  |        / ____(_) | | |         | |      / ____| |      | |      
  | \  / |_   _  | |  __ _| |_| |__  _   _| |__   | (___ | |_ __ _| |_ ___ 
@@ -155,6 +155,7 @@
           __/ |                                                           
          |___/                                                            
 -->
+
 ### 📈My Github Stats
 <div align="center">
   <table >
@@ -169,13 +170,6 @@
   </table>
 </div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lov3five&theme=algolia&show_icons=true" alt="Github-lov3five-stat" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lov3five&layout=compact&theme=algolia" alt="top-langs" />
-</p> -->
-
 <!--
 
   _____                     _      _____ _ _   _           _                    _   _       _ _         
@@ -187,6 +181,7 @@
                                                                                                    __/ |
                                                                                                   |___/ 
 -->
+
 ### ⚡ Recent GitHub Activity</b>
 <p align="center"> 
   <br />
