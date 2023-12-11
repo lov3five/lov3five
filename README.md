@@ -52,8 +52,8 @@
 </p>
 
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
-- 🟢 I’m currently learning ``NestJS``, ``NextJS``, ``Golang`` and advancing ``Backend`` & ``DevOps`` knowledge.
-- 🟢 Contact me: <a href="luongtranstaff@gmail.com">luongtranstaff@gmail.com</a>
+- 🟢 I’m currently learning ``NestJS``, ``Golang`` and advancing ``Backend`` & ``DevOps`` knowledge.
+- 🟢 Contact me: <a href="luongtt.qn@gmail.com">luongtt.qn@gmail.com</a>
 
 <!--
   _______        _      _____ _             _    
@@ -104,7 +104,7 @@
 </p>
 <hr>
 
-#### ✔ Devops
+#### ✔ DevOps
 <p align="center">
   <img src="https://github.com/lov3five/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
