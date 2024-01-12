@@ -44,7 +44,7 @@
 -->  
 ### 🌈 About Me 
 <p align="justify">
-  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C, C++, Java; Data structures; Algorithms</strong> and focusing on <strong>JavaScript, TypeScript</strong>. I have successfully developed applications using frameworks like <strong>Nest</strong> and <strong>Flask</strong>.
+  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, as well as knowledge in data structures and algorithms. My current focus is on <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>Node.js</strong> development. I have successfully developed applications using frameworks like <strong>NestJS (Node.js)</strong> and <strong>Flask (Python)</strong>."
 </p>
 
 <p align="justify">
