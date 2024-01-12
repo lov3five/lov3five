@@ -44,7 +44,7 @@
 -->  
 ### 🌈 About Me 
 <p align="justify">
-  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C, C++, Java; Data structures; Algorithms</strong> and near proficiency in <strong>JavaScript, TypeScript, and Python</strong>. I have successfully developed applications using frameworks like <strong>Nest</strong> and <strong>Flask</strong>.
+  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C, C++, Java; Data structures; Algorithms</strong> and focusing on <strong>JavaScript, TypeScript</strong>. I have successfully developed applications using frameworks like <strong>Nest</strong> and <strong>Flask</strong>.
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@
 </p>
 
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
-- 🟢 I’m currently learning ``NestJS``, ``Golang`` and advancing ``Backend`` & ``DevOps`` knowledge.
+- 🟢 I’m currently learning ``NestJS`` and advancing ``Backend`` & ``DevOps`` knowledge.
 - 🟢 Contact me: <a href="luongtt.qn@gmail.com">luongtt.qn@gmail.com</a>
 
 <!--
@@ -72,7 +72,6 @@
   <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
-
   <img src="https://github.com/lov3five/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
   <img src="https://docusaurus.io/img/docusaurus.svg" alt="docusaurus" width="50" height="50"/>
 <!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
