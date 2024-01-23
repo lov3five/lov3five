@@ -106,6 +106,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
   <img src="https://github.com/lov3five/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserer" width="50" height="50" />
   <img src="https://github.com/lov3five/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
 </p>
 <hr>
 
