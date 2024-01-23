@@ -70,7 +70,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 -->
 ### 💻Tech Stack
 
-#### ✔ Back-end
+#### ✔ Back-end 🔴
 <p align="center">
   <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
