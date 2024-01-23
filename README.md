@@ -43,7 +43,7 @@
 ### 🌈 About Me
 
 ```typescript
-// Learning mindset
+// Learning principles
 const LEARN_KNOWLEDGE: string = 'Understand its purpose';
 const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
 const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
