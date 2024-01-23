@@ -32,11 +32,6 @@
 -->
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
-```typescript
-const LEARN_KNOWLEDGE: string = 'Understand its purpose';
-const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
-const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
-```
 <!--
            _                 _                    
      /\   | |               | |                   
@@ -45,7 +40,14 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
   / ____ \| |_) | (_) | |_| | |_  | | | | | |  __/
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 -->  
-### 🌈 About Me 
+### 🌈 About Me
+
+```typescript
+// Learning mindset
+const LEARN_KNOWLEDGE: string = 'Understand its purpose';
+const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
+const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
+```
 <p align="justify">
   I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, as well as knowledge in data structures and algorithms. My current focus is on <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>Node.js</strong> development. I have successfully developed applications using frameworks like <strong>NestJS (Node.js)</strong> and <strong>Flask (Python)</strong>."
 </p>
