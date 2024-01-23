@@ -33,9 +33,9 @@
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
 ```typescript
-const LEARN_KNOWLEDGE: string = 'Understand why it was created';
-const LEARN_CODING: string = 'Not only the syntax and algorithms of a programming language but also honing problem-solving skills';
-const LEARN_TECHNOLOGY: string = 'not just about accessing and understanding the technologies, but also about applying and integrating them into real-life situations';
+const LEARN_KNOWLEDGE: string = 'Understand its purpose';
+const LEARN_CODING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
+const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
 ```
 <!--
            _                 _                    
