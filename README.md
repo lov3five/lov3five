@@ -68,7 +68,22 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
     | |  __/ (__| | | |____) | || (_| | (__|   < 
     |_|\___|\___|_| |_|_____/ \__\__,_|\___|_|\_\
 -->
-### 💻Tech Stack 
+### 💻Tech Stack
+
+#### ✔ Back-end
+<p align="center">
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> -->
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
+<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/> -->
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/>
+</p>
+<hr>
+
 #### ✔ Front-end
 <p align="center">
   <img src="https://github.com/lov3five/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="50" height="50"/>
@@ -82,20 +97,6 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 <!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> -->
   <img src="https://github.com/lov3five/devicon/blob/master/icons/hugo/hugo-original.svg" alt="flutter" width="50" height="50"/>
-</p>
-<hr>
-
-#### ✔ Back-end
-<p align="center">
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> -->
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
-<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/> -->
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
 </p>
 <hr>
 
