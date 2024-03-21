@@ -13,6 +13,7 @@
         <a href="https://www.linkedin.com/in/luongtranstaff/" target="_blank">LinkedIn</a> ▪
         <a href="https://twitter.com/luongtranstaff" target="_blank">X</a> ▪
         <a href="https://instagram.com/nakervn" target="_blank">Instagram</a>
+        <a href="https://leetcode.com/ldplayerstaff" target="_blank">LeetCode</a>
   </samp>
 </p>
 
