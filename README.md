@@ -189,9 +189,9 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
                                                                                                   |___/ 
 -->
 
-### ⚡ Recent GitHub Activity</b>
+### ⚡ Recent LeetCode Activity</b>
 <p align="center"> 
-  <br />
+  <img src="https://leetcard.jacoblin.cool/lov3five?theme=dark&font=Rubik&ext=heatmap" />
 </p>
 
   <p align="center"> 
