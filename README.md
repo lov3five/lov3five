@@ -69,7 +69,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
     | |  __/ (__| | | |____) | || (_| | (__|   < 
     |_|\___|\___|_| |_|_____/ \__\__,_|\___|_|\_\
 -->
-### 💻Tech Stack
+### 🌐Tech Stack
 
 #### ✔ Back-end 🔴
 <p align="center">
