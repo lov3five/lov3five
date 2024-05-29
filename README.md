@@ -33,6 +33,8 @@
 -->
 <div align="center"><img  src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47un05o9r7yv9s45tpjrs4tse63li6fswn9bgnlhco&rid=giphy.gif&ct=g" alt=""></div>
 
+> "Instead of: I don't know this, I don't get it, I hate this ...jump straight to: I'm competent, I know how to use this, I'm good at it ...and create the base layer for: I love this, I'm advanced, I'm badass"
+
 <!--
            _                 _                    
      /\   | |               | |                   
@@ -49,11 +51,6 @@ const LEARN_KNOWLEDGE: string = 'Understand its purpose';
 const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
 const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
 ```
-🔥 Favourite quote: 
-<p align="justify" color="#7CFC00">
-"Instead of: I don't know this, I don't get it, I hate this ...jump straight to: I'm competent, I know how to use this, I'm good at it ...and create the base layer for: I love this, I'm advanced, I'm badass"
-</p>
-
 
 <p align="justify">
   I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, as well as knowledge in data structures and algorithms. My current focus is on <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>Node.js</strong> development. I have successfully developed applications using frameworks like <strong>NestJS (Node.js)</strong> and <strong>Flask (Python)</strong>."
