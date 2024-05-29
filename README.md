@@ -49,7 +49,8 @@ const LEARN_KNOWLEDGE: string = 'Understand its purpose';
 const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
 const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
 ```
-> Favourite quote: "Instead of: I don't know this, I don't get it, I hate this ...jump straight to: I'm competent, I know how to use this, I'm good at it ...and create the base layer for: I love this, I'm advanced, I'm badass
+## Favourite quote: 
+> "Instead of: I don't know this, I don't get it, I hate this ...jump straight to: I'm competent, I know how to use this, I'm good at it ...and create the base layer for: I love this, I'm advanced, I'm badass"
 
 
 <p align="justify">
