@@ -20,7 +20,7 @@
 #
 
 <div align="center">
-  <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
+  <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFBF00&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
 </div>
 
 <!--
