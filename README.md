@@ -81,13 +81,14 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 <p align="center">
   <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> -->
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
 <!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="50" height="50"/> -->
   <img src="https://github.com/lov3five/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/>
 </p>
 <hr>
 
@@ -97,21 +98,21 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
   <img src="https://github.com/lov3five/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" width="50" height="50"/>
   <img src="https://docusaurus.io/img/docusaurus.svg" alt="docusaurus" width="50" height="50"/>
 <!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> -->
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/hugo/hugo-original.svg" alt="flutter" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/hugo/hugo-original.svg" alt="hugo" width="50" height="50"/>
 </p>
 <hr>
 
 #### ✔ Database
 <p align="center">
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgrsql" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserer" width="50" height="50" />
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="50" height="50" />
   <img src="https://github.com/lov3five/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
 </p>
@@ -122,13 +123,16 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
   <img src="https://github.com/lov3five/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-<!--   <img src="https://github.com/lov3five/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/> -->
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50"/>
 </p>
 <hr>
 
-#### ✔ IDE
+#### ✔ IDE & DMT
 <p align="center">
     <img src="https://github.com/lov3five/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+    <img src="https://pngimg.com/d/chatgpt_PNG1.png" alt="chatgpt" width="50" height="50"/>
+    <img src="https://github.com/lov3five/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/>
 </p>
 <hr>
 
@@ -148,14 +152,16 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
   <img src="https://github.com/lov3five/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" alt="pnpm" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="50" height="50"/>
-  <img src="https://github.com/lov3five/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
   <img src="https://github.com/lov3five/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+  <img src="https://github.com/lov3five/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="sof" width="50" height="50"/>
 </p>
 
 <!--
