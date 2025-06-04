@@ -139,6 +139,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 #### ✔ IDE & DMT
 <p align="center">
     <img src="https://github.com/lov3five/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/12222/12222588.png" alt="chatgpt" width="50" height="50"/>
     <img src="https://github.com/lov3five/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/>
 </p>
 <hr>
