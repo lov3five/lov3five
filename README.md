@@ -20,7 +20,7 @@
 #
 
 <div align="center">
-  <a href="https://instagram/nakervn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFBF00&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
+  <a href="https://www.linkedin.com/in/luongtranstaff/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFBF00&background=B62BFF00&center=true&vCenter=true&width=475&lines=%3C%2F%3E+Hi%2C+welcome+to+L-3012's+github+%7B.%7D;Let's+explore+my+code+space!!!;..."></a>
 </div>
 
 <!--
@@ -49,14 +49,22 @@
 ### 🌈 About Me
 
 ```typescript
-// Learning principles
+/**
+ * LTSP — Luong Tran Software Principles
+ *
+ * L — Learn continuously
+ * T — Think critically
+ * S — Solve effectively
+ * P — Prioritize quality
+ */
+
 const LEARN_KNOWLEDGE: string = 'Understand its purpose';
 const LEARN_PROGRAMMING: string = 'Beyond syntax and algorithms, focus on honing problem-solving skills';
 const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-life situations';
 ```
 
 <p align="justify">
-  I'm Luong Tran , a software engineer specializing in web application development, holding a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I have a fundamental understanding of programming languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, as well as knowledge in data structures and algorithms. My current focus is on <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>Node.js</strong> development. I have successfully developed applications using frameworks like <strong>NestJS (Node.js)</strong> and <strong>Flask (Python)</strong>."
+  I’m Luong Tran, a software engineer specializing in web application development. I hold a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I possess strong fundamentals in programming with languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, complemented by solid knowledge of data structures and algorithms. My current expertise lies in TypeScript, and Node.js ecosystem. I have hands-on experience designing and developing scalable, maintainable backend applications using modern frameworks like NestJS, Flask(Python), GoFiber(Golang)... I am passionate about writing clean, efficient code and continuously improving my technical skills to deliver high-quality software solutions.
 </p>
 
 <p align="justify">
