@@ -68,7 +68,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 </p>
 
 <p align="justify">
-  Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/" target="_blank">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. I am enthusiastic about furthering my learning and contributing to real-world projects, with a focus on creating advanced technology solutions that positively impact the community. Collaboration and knowledge sharing within the ever-evolving field of information technology are core values that I hold dear.
+  Furthermore,  I have hands-on experience in software development, having worked as a Product Backend Intern at <a href="https://geekup.vn/" target="_blank">GEEK UP JSC</a>. During this time, I gained practical exposure to the Agile/SCRUM methodology, which prioritizes collaboration, adaptability, and delivering added value. Currently, I am working as a software developer at <a href="https://www.dipro-tech.com/" target="_blank">DIPROTECH</a>, where I continue to deepen my skills and contribute to building advanced technology solutions. I am passionate about continuous learning and actively engaging in real-world projects that positively impact the community. Collaboration and knowledge sharing remain core values I uphold in the ever-evolving field of information technology.
 </p>
 
 - 🟢 I have a strong focus on backend system development, database design, querying, and administration.
