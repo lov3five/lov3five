@@ -64,7 +64,7 @@ const LEARN_TECHNOLOGY: string = 'Apply and integrate technologies into real-lif
 ```
 
 <p align="justify">
-  I’m Luong Tran, a software engineer specializing in web application development. I hold a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I possess strong fundamentals in programming with languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, complemented by solid knowledge of data structures and algorithms. My current expertise lies in TypeScript, and Node.js ecosystem. I have hands-on experience designing and developing scalable, maintainable backend applications using modern frameworks like NestJS, Flask(Python), GoFiber(Golang)... I am passionate about writing clean, efficient code and continuously improving my technical skills to deliver high-quality software solutions.
+  I’m Luong Tran, a software engineer specializing in web application development. I hold a Bachelor's degree in Information Technology from the <strong>Industrial University of Ho Chi Minh City (IUH)</strong>. I possess strong fundamentals in programming with languages such as <strong>C</strong>, <strong>C++</strong> and <strong>Java</strong>, complemented by solid knowledge of data structures and algorithms. My current expertise lies in TypeScript, and Node.js ecosystem. I have hands-on experience designing and developing scalable, maintainable backend applications using modern frameworks like NestJS. I am passionate about writing clean, efficient code and continuously improving my technical skills to deliver high-quality software solutions.
 </p>
 
 <p align="justify">
